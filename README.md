@@ -1,10 +1,20 @@
 # Default-Microphone-Detector
-This Script show you What INPUT Micprhone Default Name is Active
 
-![image](https://user-images.githubusercontent.com/120814446/219995396-70a19d21-b864-4c82-9700-d3072d8f43a6.png)
+This Script it Detect Which Default Micrphone Setup , And Print the INPUT into The GUI App.
 
-Libary that include this script
-CustomTkinter : GUI Interface Modern Dark !
-Pyaudio 
-Tkinter 
+Libary # (Include the Script)
+
+## 
+
+- [ ] Tkinter & Customtkinter
+- [ ] Pyaudio
+
+Install Using PowerShell .
+
+Screenshot OF The Applicaion .
+
+![image](https://user-images.githubusercontent.com/120814446/219996289-9c08462d-8227-4fd3-b1ee-8420e0bc8014.png)
+
+My Discord Server :  https://discord.gg/aguyvHrdrT
+
 
