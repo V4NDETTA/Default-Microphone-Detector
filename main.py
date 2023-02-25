@@ -4,6 +4,7 @@ import tkinter
 import script
 import pyaudio
 
+# VARIABLE FOR PYAUDIO 
 p = pyaudio.PyAudio()
 default_device =  p.get_default_input_device_info()
 
